@@ -1,0 +1,14 @@
+h1 {text-align: center;
+    
+    color: orangered}
+
+h2 {color: darkorange}
+
+.link {font-weight: bold;
+    font-size: x-large
+}
+
+#styledImage {border: 20px solid darkorange;
+    padding: 10px;
+    border-radius: 25px;
+  }

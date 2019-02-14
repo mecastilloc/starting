@@ -6,9 +6,13 @@ h1 {text-align: center;
     color: orangered}
 
 h2 {color: darkorange}
+h3 {color: orange;
+    text-align: center;
+}
 
 .link {font-weight: bold;
-    font-size: x-large
+    font-size: x-large;
+    color: green;
 }
 
 #styledImage {border: 20px solid darkorange;
